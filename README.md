@@ -1,2 +1,2 @@
 # DicomToJpg
-Simple flask API to convert any Dicom file to jpg
+Simple flask application to convert Dicom file to jpg
